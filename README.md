@@ -1,3 +1,3 @@
 # exam_repo1
-Puthenpurakkal house
+ammadam
 Git is a distributed version control system
